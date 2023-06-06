@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @singhvinit1
+- 👀 I’m interested in skill
+- 🌱 I’m currently learning for Data Analysts work
